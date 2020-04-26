@@ -1,0 +1,4 @@
+/.terraform
+/iso-images
+/terraform*
+/tmp
